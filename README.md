@@ -11,4 +11,4 @@ Each sample in the train and test set has the following information:
 </ul>
 
 ## Task
-We are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
+We have to predict whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
