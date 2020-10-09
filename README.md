@@ -9,5 +9,6 @@ Each sample in the train and test set has the following information:
 
   <li>The location the tweet was sent from (may also be blank)</li> 
 </ul>
+
 ## Task
 We are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
